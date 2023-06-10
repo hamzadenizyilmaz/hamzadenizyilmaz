@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! My name is Hamza Deniz Yılmaz,<br><br>I am 15 years old and a 9th grade student. I have been working actively in the field of PCB and Software since 2018. I currently know languages such as C, C++, C#, HTML, CSS and JavaScript. I developed 1 website and 3 PC programs as software projects. In the PCB field, I have 13 projects.<br><br>In the software field, I usually use development environments such as Visual Studio (VS) and Visual Studio Code (VS Code). I am also proficient in PCB design tools such as Eagle PCB and KiCad.<br><br>I am constantly trying to improve myself and learn new things with my interest in technology. I like working on projects to put my knowledge in software and electronics into practice. I also enjoy doing group work and collaborative projects.<br><br>My aim is to develop myself in the world of technology, to offer innovative solutions and to continue my career in this field in the future. My dream is to develop products and software that will make people's daily lives easier.<br><br>Contact: hamzadenizyilmaz@mykyazilim.com.tr
+Hello! My name is Hamza Deniz Yılmaz,<br>Software Developer
+I have been dealing with .Net Architecture and Software Development for a long time.
+In the PCB field, I have 13 projects.<br><br>Contact: hamzadenizyilmaz@mykyazilim.com.tr
 
 
 ## 🌐 Socials:
