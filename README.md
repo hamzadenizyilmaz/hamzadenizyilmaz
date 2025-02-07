@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! My name is Hamza Deniz Yılmaz,<br>Software Developer
 I have been dealing with .Net Architecture and Software Development for a long time.
-In the PCB field, I have 13 projects.<br><br>Contact: hamzadenizyilmaz@mykyazilim.com.tr
+In the PCB field, I have 13 projects.<br><br>Contact: hamzadenizyilmaz@hamzadenizyilmaz.com
 
 
 ## 🌐 Socials:
