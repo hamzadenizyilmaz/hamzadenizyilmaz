@@ -5,6 +5,26 @@ Nexys VM: Virtual server control system supported by VMWare ESXİ (vCenter) and 
 
 Maker PCB: The Maker PCB series are ESP32 and STM32 based boards. They are completely innovative and user-friendly development boards. <br> <br> 🎥 My YouTube Channel  <br><br>I have a YouTube channel where I share my projects and my interest in technology. On this channel, you can find a variety of content such as my new board designs, embedded system projects** and electronics reviews.  <br><br>YouTube Channel: [Hamza Deniz Yilmaz](https://www.youtube.com/channel/UCbete7WiB5nwUilmp1n7vFA)  <br><br>📫 Contact  <br><br>If you would like to learn more about my projects or would like to collaborate, you can contact me in the following ways:  <br><br>- Website: [hamzadenizyilmaz.com](https://hamzadenizyilmaz.com/)  <br>- GitHub: [hamzadenizyilmaz](https://github.com/hamzadenizyilmaz)  <br>- LinkedIn: [hamza-deniz-yilmaz](https://tr.linkedin.com/in/hamza-deniz-yilmaz-9a6530286)  <br>- X (Twitter): [@HamzaDenizYil](https://x.com/hamzadenizyil)  <br>- Instagram: [hamza_deniz_yilmaz](https://www.instagram.com/hamza_deniz_yilmaz/)  <br>- YouTube: [Hamza Deniz Yilmaz](https://www.youtube.com/channel/UCbete7WiB5nwUilmp1n7vFA)  <br>- E-Mail: info@hamzadenizyilmaz.com / abuse@hamzadenizyilmaz.com  <br><br>I love collaborating and developing new ideas in open source projects! If you have an idea or want to do a project together, you can always contact me. 🚀  
 
+## 🤝 Sponsors & Partners
+
+I’m proud to collaborate with companies that support my projects, open-source development, and technology-focused work.
+
+### 🌐 Bilhost
+
+Reliable hosting solutions, domain services, virtual servers, and professional infrastructure services for your projects.
+
+[Explore Bilhost Services](https://www.bilhost.com/panel/aff.php?aff=37)
+
+### 🔧 PCBWay
+
+Professional PCB manufacturing, PCB assembly, CNC machining, 3D printing, and custom electronics production services for makers, engineers, and technology companies.
+
+[Explore PCBWay](https://www.pcbway.com/)
+
+---
+
+> Interested in sponsoring my projects or collaborating with me? Feel free to contact me through my GitHub profile.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza_deniz_yilmaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-deniz-yilmaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hamzadenizYİL) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbete7WiB5nwUilmp1n7vFA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@hamzadenizyilmaz.com.tr) 
