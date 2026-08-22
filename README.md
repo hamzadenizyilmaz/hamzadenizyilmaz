@@ -1,55 +1,403 @@
-# 💫 About Me:
-<br>Hello! I'm Hamza Deniz Yılmaz, a developer working on software, web, IoT and automation systems. I also design PCBs and develop electronic systems.  <br><br>My interest in technology allows me to develop productive solutions in both hardware and software. I work in various fields such as embedded systems, API development, MQTT-based communication and automation projects. Every day I strive to improve my competencies in this field and produce more efficient solutions.  <br><br>Exploring new technologies, contributing to open source projects and sharing knowledge is my passion. 🚀  <br><br>🛠 Projects I'm Working On  <br><br>VM Maker: The Pioneering IoT Platform for ESP32
+# Hamza Deniz Yılmaz — GitHub Profile README
 
-Nexys VM: Virtual server control system supported by VMWare ESXİ (vCenter) and Proxmox.
+<div align="center">
 
-Maker PCB: The Maker PCB series are ESP32 and STM32 based boards. They are completely innovative and user-friendly development boards. <br> <br> 🎥 My YouTube Channel  <br><br>I have a YouTube channel where I share my projects and my interest in technology. On this channel, you can find a variety of content such as my new board designs, embedded system projects** and electronics reviews.  <br><br>YouTube Channel: [Hamza Deniz Yilmaz](https://www.youtube.com/channel/UCbete7WiB5nwUilmp1n7vFA)  <br><br>📫 Contact  <br><br>If you would like to learn more about my projects or would like to collaborate, you can contact me in the following ways:  <br><br>- Website: [hamzadenizyilmaz.com.tr](https://hamzadenizyilmaz.com.tr/)  <br>- GitHub: [hamzadenizyilmaz](https://github.com/hamzadenizyilmaz)  <br>- LinkedIn: [hamza-deniz-yilmaz](https://tr.linkedin.com/in/hamza-deniz-yilmaz-9a6530286)  <br>- X (Twitter): [@HamzaDenizYil](https://x.com/hamzadenizyil)  <br>- Instagram: [hamza_deniz_yilmaz](https://www.instagram.com/hamza_deniz_yilmaz/)  <br>- YouTube: [Hamza Deniz Yilmaz](https://www.youtube.com/channel/UCbete7WiB5nwUilmp1n7vFA)  <br>- E-Mail: info@hamzadenizyilmaz.com / abuse@hamzadenizyilmaz.com  <br><br>I love collaborating and developing new ideas in open source projects! If you have an idea or want to do a project together, you can always contact me. 🚀  
+# Hamza Deniz Yılmaz
 
-## 🤝 Sponsors & Partners
+### Software Engineer | Backend & DevOps | Infrastructure Automation | IoT & Embedded Systems
 
-I’m proud to collaborate with companies that support my projects, open-source development, and technology-focused work.
+**Engineering production-oriented software, infrastructure and connected systems.**
 
-### 🌐 Bilhost
+🌐 [Website](https://hamzadenizyilmaz.com.tr) •
+💼 [LinkedIn](https://www.linkedin.com/in/hamza-deniz-yilmaz) •
+💻 [GitHub](https://github.com/hamzadenizyilmaz)
 
-Reliable hosting solutions, domain services, virtual servers, and professional infrastructure services for your projects.
-
-[Explore Bilhost Services](https://www.bilhost.com/panel/aff.php?aff=37)
-
-### 🔧 PCBWay
-
-Professional PCB manufacturing, PCB assembly, CNC machining, 3D printing, and custom electronics production services for makers, engineers, and technology companies.
-
-[Explore PCBWay](https://www.pcbway.com/)
+</div>
 
 ---
 
-> Interested in sponsoring my projects or collaborating with me? Feel free to contact me through my GitHub profile.
+## About Me
 
+I am a multidisciplinary software engineer focused on building **backend platforms, infrastructure automation systems, web applications and connected hardware solutions**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza_deniz_yilmaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-deniz-yilmaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hamzadenizYİL) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbete7WiB5nwUilmp1n7vFA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@hamzadenizyilmaz.com.tr) 
+My work combines software development with the infrastructure required to operate software reliably in real-world environments.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamzadenizyilmaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hamzadenizyilmaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzadenizyilmaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Rather than focusing only on application code, I take an end-to-end engineering approach that includes architecture, backend development, databases, deployment, server infrastructure, security, monitoring and automation.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamzadenizyilmaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am particularly interested in projects where multiple engineering disciplines come together and where technical decisions have a direct impact on reliability, maintainability and long-term product development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+My primary areas of focus include:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hamzadenizyilmaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* Backend and API development
+* DevOps and infrastructure automation
+* Linux and server administration
+* Virtualization technologies
+* Web and desktop applications
+* IoT and embedded systems
+* Electronics and PCB development
+
+My goal is to build systems that are **maintainable, secure, observable and suitable for production environments**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamzadenizyilmaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hamzadenizA) 
+## Engineering Approach
 
-  
-<!-- ( https://gprm.itsvg.in ) -->
+I approach software development as more than implementing individual features.
+
+When designing a system, I consider the complete lifecycle of the product:
+
+* Architecture and technical requirements
+* Backend and database design
+* Security and access control
+* Infrastructure and deployment
+* Monitoring and logging
+* Automation
+* Backup and recovery
+* Maintainability
+* Documentation
+* Future scalability
+
+I prefer pragmatic architectures that solve real problems without introducing unnecessary complexity.
+
+For me, good engineering means creating systems that another developer can understand, maintain and extend — while ensuring that deployment and operational processes remain predictable.
+
+---
+
+## Backend Engineering
+
+Backend development is one of my primary technical areas.
+
+I work on REST APIs, authentication systems, business logic, database integrations and service architectures using technologies such as:
+
+**C# • ASP.NET Core • Node.js • Express.js • REST API • JWT • Swagger / OpenAPI**
+
+I also work with:
+
+**Microsoft SQL Server • MySQL • PostgreSQL • Dapper • Prisma**
+
+My backend development approach emphasizes:
+
+* Clear application architecture
+* Separation of responsibilities
+* Authentication and authorization
+* Input validation
+* Error handling
+* Logging
+* API security
+* Database integrity
+* Maintainable code structures
+* Production readiness
+
+---
+
+## DevOps & Infrastructure
+
+I actively work with the infrastructure layer behind applications.
+
+This includes deploying and operating software on Linux and Windows environments as well as managing virtualization and application infrastructure.
+
+My experience includes:
+
+**Linux • Windows Server • Docker • Docker Compose • Nginx • GitHub Actions • CI/CD**
+
+I also work with infrastructure technologies including:
+
+**VMware ESXi • VMware vCenter • Proxmox VE**
+
+Areas I focus on include:
+
+* Server installation and configuration
+* Application deployment
+* Reverse proxy configuration
+* SSL/TLS
+* DNS
+* Virtual machines
+* Storage and resource management
+* Backup strategies
+* Monitoring and logging
+* Server security
+* Infrastructure troubleshooting
+* Deployment automation
+
+Understanding infrastructure allows me to design applications while considering how they will actually operate in production.
+
+---
+
+## Infrastructure Automation
+
+Automation is an important part of my engineering work.
+
+I am interested in transforming repetitive infrastructure operations into manageable software workflows.
+
+This includes areas such as:
+
+* Application deployment automation
+* Server provisioning
+* Domain and DNS management
+* Reverse proxy configuration
+* SSL certificate operations
+* Firewall management
+* Backup automation
+* Service management
+* Monitoring
+* Infrastructure health checks
+
+I particularly enjoy developing platforms that simplify technically complex infrastructure operations through software.
+
+---
+
+## Networking & Systems
+
+My infrastructure work also requires a strong understanding of networking concepts.
+
+I work with technologies and concepts including:
+
+**TCP/IP • DNS • DHCP • VLAN • Routing • Firewall • VPN • Reverse Proxy**
+
+This knowledge helps me troubleshoot systems beyond the application layer and understand communication problems between applications, servers and network services.
+
+---
+
+## Frontend & Application Development
+
+While backend and infrastructure engineering remain my primary areas of focus, I also develop frontend and desktop applications when required for complete products.
+
+Technologies I work with include:
+
+**React • Next.js • JavaScript • Vite • Tailwind CSS • Zustand • Electron**
+
+My frontend work is generally focused on building practical interfaces for backend systems, management platforms and technical applications.
+
+---
+
+## IoT & Embedded Systems
+
+I also develop embedded and IoT systems where software interacts directly with hardware.
+
+Technologies and platforms I work with include:
+
+**ESP32 • ESP8266 • STM32 • C/C++ • PlatformIO • MQTT • LoRa • GNSS/GPS**
+
+My embedded projects include:
+
+* Device telemetry
+* Sensor integration
+* Long-range communication
+* Local web interfaces
+* Embedded displays
+* Device-to-device communication
+* Hardware/software integration
+* Offline communication systems
+
+Working with embedded systems gives me the opportunity to approach engineering problems from both software and hardware perspectives.
+
+---
+
+## Electronics & PCB Development
+
+Alongside software development, I also work with electronics prototyping and PCB-oriented projects.
+
+My experience includes:
+
+* PCB design
+* Microcontroller-based boards
+* Hardware prototyping
+* Sensor integration
+* Communication modules
+* Firmware integration
+* Embedded development
+
+This allows me to develop projects where backend systems, communication infrastructure and physical devices operate as parts of the same product.
+
+---
+
+# Featured Projects
+
+## ReelManager
+
+### Electronics Component Inventory & BOM Management Platform
+
+ReelManager is a full-stack inventory management platform designed for electronics laboratories and engineering environments.
+
+It includes functionality for:
+
+* Electronic component management
+* SMD reel tracking
+* Stock movements
+* BOM management
+* Project management
+* Purchasing requirements
+* QR and barcode workflows
+* XLSX and PDF operations
+
+**Technology Stack**
+
+`Next.js` `React` `Node.js` `Express` `Prisma` `MySQL` `JWT` `Swagger`
+
+[View Repository](https://github.com/hamzadenizyilmaz/ReelManager-Electronics-Component-Inventory-Manager)
+
+---
+
+## OpenDeploy
+
+### Self-Hosted Deployment & Infrastructure Operations Platform
+
+OpenDeploy focuses on managing application deployment and infrastructure operations through a centralized platform.
+
+The project covers concepts such as:
+
+* Application deployment
+* Server management
+* Domains
+* DNS
+* Reverse proxies
+* SSL
+* Databases
+* Monitoring
+* Backups
+* Security
+* Infrastructure automation
+
+The project reflects one of my main engineering interests: simplifying infrastructure operations through software.
+
+[View Repository](https://github.com/hamzadenizyilmaz/OpenDeploy)
+
+---
+
+## StratoTrack LoRa Pro
+
+### Offline Long-Range GPS Tracking System
+
+StratoTrack LoRa Pro is an embedded tracking platform built around long-range communication and offline operation.
+
+The system combines:
+
+`ESP32-C6` `GNSS` `LoRa P2P` `TFT` `PlatformIO` `Embedded Web UI`
+
+The project is designed to provide positioning and telemetry capabilities without depending entirely on GSM networks, external cloud services or continuous internet connectivity.
+
+[View Repository](https://github.com/hamzadenizyilmaz/StratoTrack-LoRa-Pro)
+
+---
+
+## Creart Firewall API
+
+### Programmable Linux Firewall Management
+
+Creart Firewall API focuses on managing Linux firewall infrastructure programmatically.
+
+The project includes concepts such as:
+
+* UFW management
+* iptables
+* Firewall rules
+* Remote operations
+* Validation
+* Backup
+* Monitoring
+* Linux automation
+
+**Technology Stack**
+
+`Node.js` `Linux` `UFW` `iptables` `SSH`
+
+[View Repository](https://github.com/hamzadenizyilmaz/Creart-Firewall-API)
+
+---
+
+## MakerST-1
+
+### STM32 Development & Embedded Hardware Platform
+
+MakerST-1 represents my work in embedded development, PCB design and hardware prototyping.
+
+The project combines:
+
+`STM32` `Embedded C/C++` `PCB Design` `Electronics`
+
+[View Repository](https://github.com/hamzadenizyilmaz/Maker-PCB-MakerST-1)
+
+---
+
+## Technical Stack
+
+### Software Development
+
+`C#` `ASP.NET Core` `Node.js` `Express.js` `React` `Next.js` `JavaScript`
+
+### Data
+
+`MSSQL` `MySQL` `PostgreSQL` `Dapper` `Prisma`
+
+### DevOps & Infrastructure
+
+`Linux` `Windows Server` `Docker` `Nginx` `GitHub Actions` `CI/CD`
+
+### Virtualization
+
+`VMware ESXi` `VMware vCenter` `Proxmox VE`
+
+### Networking
+
+`TCP/IP` `DNS` `DHCP` `VLAN` `Routing` `Firewall` `VPN`
+
+### Embedded & IoT
+
+`ESP32` `ESP8266` `STM32` `C/C++` `PlatformIO` `MQTT` `LoRa` `GNSS`
+
+---
+
+## Technical Writing
+
+I also publish technical articles, development notes and engineering content through my personal website.
+
+Topics include:
+
+* ASP.NET Core
+* Backend architecture
+* API development
+* C#
+* Database systems
+* Linux
+* Server administration
+* Docker
+* DevOps
+* Infrastructure
+* Networking
+* IoT
+* Embedded systems
+* Electronics
+* PCB development
+
+🌐 **Website:** [hamzadenizyilmaz.com.tr](https://hamzadenizyilmaz.com.tr)
+
+I see technical writing as an important part of engineering because documenting concepts and decisions helps create more understandable and reusable technical knowledge.
+
+---
+
+## Professional Focus
+
+I am particularly interested in building and contributing to projects involving:
+
+* Backend platforms
+* Infrastructure automation
+* DevOps tools
+* Self-hosted platforms
+* Virtualization
+* Deployment systems
+* Developer tools
+* IoT platforms
+* Embedded systems
+* Open-source technologies
+
+I value projects where **architecture, reliability, maintainability and long-term technical decisions** are treated as first-class engineering concerns.
+
+---
+
+## Contact
+
+🌐 **Website:** [hamzadenizyilmaz.com.tr](https://hamzadenizyilmaz.com.tr)
+
+💼 **LinkedIn:** [linkedin.com/in/hamza-deniz-yilmaz](https://www.linkedin.com/in/hamza-deniz-yilmaz)
+
+💻 **GitHub:** [github.com/hamzadenizyilmaz](https://github.com/hamzadenizyilmaz)
