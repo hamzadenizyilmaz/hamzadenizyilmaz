@@ -1,7 +1,3 @@
-# Hamza Deniz Yılmaz — GitHub Profile README
-
-<div align="center">
-
 # Hamza Deniz Yılmaz
 
 ### Software Engineer | Backend & DevOps | Infrastructure Automation | IoT & Embedded Systems
