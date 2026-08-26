@@ -36,6 +36,61 @@ My goal is to build systems that are **maintainable, secure, observable and suit
 
 ---
 
+## Sponsors & Technology Partners
+
+<p align="center">
+  I am grateful to the companies supporting my open-source, software, embedded systems,
+  electronics and engineering projects.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.bilhost.com/panel/aff.php?aff=37">
+        <img
+          src="https://www.bilhost.com/assets/images/logo.svg"
+          alt="Bilhost Bilişim Teknolojileri A.Ş."
+          width="330"
+        />
+      </a>
+      <br><br>
+      <strong>Bilhost Bilişim Teknolojileri A.Ş.</strong>
+      <br>
+      <sub>Infrastructure & Technology Sponsor</sub>
+      <br><br>
+      <a href="https://www.bilhost.com/panel/aff.php?aff=37">
+        Visit Bilhost
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.pcbway.com/">
+        <img
+          src="https://pcbwayfile.s3.us-west-2.amazonaws.com/web/250220/PCBWayBadgeContestLOGOdownload.svg"
+          alt="PCBWay"
+          width="330"
+        />
+      </a>
+      <br><br>
+      <strong>PCBWay</strong>
+      <br>
+      <sub>PCB Manufacturing & Hardware Sponsor</sub>
+      <br><br>
+      <a href="https://www.pcbway.com/">
+        Visit PCBWay
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    Supporting open-source development, infrastructure, embedded systems,
+    PCB design and engineering projects.
+  </sub>
+</p>
+
+---
+
 ## Engineering Approach
 
 I approach software development as more than implementing individual features.
